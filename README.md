@@ -1,5 +1,5 @@
 # Read me
-Our group is group 67, are official team name is 67.
+Our group is Group 67, are official team name is 67.
 ## Group members:
 Myles Reilly  
 Email:mjr270@pitt.edu  
