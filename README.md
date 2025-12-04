@@ -12,9 +12,3 @@ This repository contains our analysis and final project identifying the best nei
 - Myles: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
 - Antoni: https://data.wprdc.org/dataset/311-data
 - Caleb:
-
-### Notebooks
-- PLACEHOLDER (MYLES)
-- PLACEHOLDER (ANTONI)
-- PLACEHOLDER (CALEB)
-- PLACEHOLDER (FINAL)
