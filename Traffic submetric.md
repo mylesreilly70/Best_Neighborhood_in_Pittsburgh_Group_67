@@ -1,3 +1,0 @@
-# Traffic Submetric - Myles Reilly
- ## https://data.wprdc.org/datastore/dump/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
-Analyzing the traffic data provided in the dataset, I have created the subset of dangerous speeding to judge the neighborhoods in Pittsburgh. This judges the neighborhoods off of how many times there have been recorded speeders in the dataset. The idea behind this subset is to find the safest roads. Having safe roads is a benefit for numerous reasons, and having unsafe roads and dangerous speeders will reduce a neighborhoods chances of being ranked the "Best neighborhood in Pittsburgh" by a significant amount. 
